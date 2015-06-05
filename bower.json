@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "authors": [
+    "Christian Van Schubert <christian.v.schubert@gmail.com>"
+  ],
+  "description": "project portfolio",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
